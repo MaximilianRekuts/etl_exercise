@@ -29,9 +29,6 @@ DETACHED;2005-01:90000
 DETACHED;2005-02:100000
 TERRACED;2005-01:95000
 
-Plentific Limited, Notcutt House, 36 Southward Bridge Road, London SE1 9EU
-Registered in England, Company Number 08275972, VAT Number 162348022
-
 b. The second report shows the number of transactions at various price brackets given
 a postcode and a year. Note that price brackets will be different in different
 postcodes and date ranges so you should find a way to automatically generate the
