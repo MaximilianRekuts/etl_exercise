@@ -1,7 +1,4 @@
-# casestudy
-Casestudy as Data and Business Intelligence Analyst Plentific February 2021
-
-The task:
+The exercise:
 
 Sold house prices case study:
 Objective: Import data into our system and create queries to obtain some reports for our clients.
